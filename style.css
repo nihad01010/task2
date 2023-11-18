@@ -1,0 +1,20 @@
+img{
+    width: 200px;
+    border-radius: 20px;
+
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: hsl(0, 0%, 100%);
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    height: 450px;
+}
+body{
+    background: lightgray;
+    font-family: 'Outfit', sans-serif;
+}
